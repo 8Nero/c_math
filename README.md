@@ -6,5 +6,6 @@ This repo contains: <br /><br />
   - Knapsack problem example <br />
   - Powerset generator <br />
   - Error bar example <br /><br />
-- C program for determining the linear approximation for a given set of data. <br />
+- C programs for Linear Algebra, Multivariable Calculus problems. <br />
+  - Ordinary Least Squares method
   - More C programs coming soon...
