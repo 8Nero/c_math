@@ -1,3 +1,3 @@
 # handmade Statistics
-This repo contains:
+This repo contains:\n
 A simple program for determining the linear approximation for a given set of data.
